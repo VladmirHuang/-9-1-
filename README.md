@@ -14,6 +14,5 @@
 -【飞桨学习赛：个贷违约预测】9月第1名方案.ipynb
 ```
 ## 使用方式
-> 相信你的Fans已经看到这里了，快告诉他们如何快速上手这个项目吧~  
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/4577707)  
 B：下载ipynb文件和[训练集](https://aistudio.baidu.com/aistudio/datasetdetail/130186)、[测试集](https://aistudio.baidu.com/aistudio/datasetdetail/130187)后，更改文件路径进行训练、测试即可。
